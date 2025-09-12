@@ -1,0 +1,29 @@
+name: d2l_pytorch_pure
+channels:
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/r
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/msys2
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch
+  - defaults
+dependencies:
+  - python
+  - torch
+  - torchvision
+  - numpy
+  - matplotlib
+  - pandas
+  - scipy
+  - requests
+  - tqdm
+  - jupyter
+  - IPython
+  - Pillow
+  - imageio
+  - ipywidgets
+  - pip:
+    # 代码中额外推荐安装的一些包，可以提高代码书写效率
+    # - einops
+
+# 代码中尽量通过自己实现一些反复调用的函数，尽量替代掉一些预定义好的函数，方便理解代码书写逻辑
+# - d2l
