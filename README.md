@@ -1,4 +1,4 @@
-# Mainly focus on the code of d2l-zh-pytorch written by Aston Zhang, Zachary C.Lipton, Mu Li, and Alexander J.Smola  
+# PyTorch implementation and detailed supplements for the Chinese version d2l-zh-pytorch Aston Zhang, Zachary C.Lipton, Mu Li, and Alexander J.Smola  
 ** Hope this code can be useful for the Chinese Beginners**
 
 ## Installation
@@ -10,3 +10,7 @@ conda env create -f environment.yml -y
 # source ~/.bashrc
 conda activate d2l_pytorch_pure  
 ```
+
+## Acknowledgements
+
+* I would like to thank the original authors—Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola—for their contributions to the Chinese PyTorch edition of Dive into Deep Learning.
