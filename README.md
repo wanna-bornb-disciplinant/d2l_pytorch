@@ -1,5 +1,6 @@
 # PyTorch implementation and detailed supplements for the Chinese version d2l-zh-pytorch 
-** Hope this code can be useful for the Chinese Beginners**
+
+* **Hope this code can be useful for the Chinese Beginners**
 
 ## Installation
 ```bash
