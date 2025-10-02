@@ -1,4 +1,4 @@
-# PyTorch implementation and detailed supplements for the Chinese version d2l-zh-pytorch Aston Zhang, Zachary C.Lipton, Mu Li, and Alexander J.Smola  
+# PyTorch implementation and detailed supplements for the Chinese version d2l-zh-pytorch 
 ** Hope this code can be useful for the Chinese Beginners**
 
 ## Installation
